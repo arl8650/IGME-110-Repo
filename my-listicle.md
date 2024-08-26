@@ -1,5 +1,6 @@
 # This super really awesome and cool listicle full of cats! :D 
 ## Kittens
+**remember to right click and open new tab**
 - [ball of fluff](https://en.bcdn.biz/Images/2018/6/12/49c138bc-9393-4dfe-919e-beeb1aaa01ae.jpg)
 - [silly guy](https://en.bcdn.biz/Images/2018/6/12/f6042203-e5b2-4ddf-9c81-2ea5b0577bdb.jpg)
 - [squish](https://en.bcdn.biz/Images/2018/6/12/f6042203-e5b2-4ddf-9c81-2ea5b0577bdb.jpg)
